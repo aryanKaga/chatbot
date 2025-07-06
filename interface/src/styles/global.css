@@ -1,0 +1,24 @@
+body {
+  /* Font family is set in index.css */
+  margin: 0; /* Remove margin to allow content to fill the viewport */
+  background: #f9f9f9; /* This might be changed later for the greyish texture */
+  color: #000000; /* Ensure text is black by default */
+}
+
+h1 {
+  font-size: 2.5em;
+  font-weight: 700; /* Bold */
+  color: #000000; /* Black color for headings */
+}
+
+h2 {
+  font-size: 1.8em;
+  font-weight: 700; /* Bold */
+  color: #000000; /* Black color for headings */
+}
+
+p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #000000; /* Black color for paragraphs */
+}

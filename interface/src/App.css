@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Make the app container at least the height of the viewport */
+}
+
+.app > * {
+  flex-grow: 1; /* Allow the ChatInterface to grow and fill the space */
+}
