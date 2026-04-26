@@ -54,3 +54,6 @@ Built with:
   ┌────────────┐
   │  Frontend  │
   └────────────┘
+
+<img width="357" height="775" alt="image" src="https://github.com/user-attachments/assets/5fb5789e-4086-482e-bf46-da2d366d25fe" />
+
