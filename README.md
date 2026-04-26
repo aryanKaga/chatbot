@@ -55,6 +55,6 @@ Built with:
   │  Frontend  │
   └────────────┘
 
-<img width="357" src="./Screenshot 2026-04-26 191023.png" alt="System Architecture Diagram" />
+<img width="357" src="./chatbot.png" alt="System Architecture Diagram" />
 
 
